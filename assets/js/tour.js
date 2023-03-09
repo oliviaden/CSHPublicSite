@@ -29,7 +29,7 @@ const content = {
     'research-room': {
         'title': 'Research Room',
         'photos': ['{{site.env.CSHPUBSITE_ASSETS_URL}}/tour/research/1', '{{site.env.CSHPUBSITE_ASSETS_URL}}/tour/research/2', '{{site.env.CSHPUBSITE_ASSETS_URL}}/tour/research/3', '{{site.env.CSHPUBSITE_ASSETS_URL}}/tour/research/4'],
-        'description': 'The Research Room is CSH\'s workshop. It houses our two 3D Printers, as well as the tools and materials for members\' electronics projects.',
+        'description': 'The Research Room is CSH\'s workshop. It houses our nine 3D Printers, as well as the tools and materials for members\' electronics projects.',
     },
     'library': {
         'title': 'Library',
